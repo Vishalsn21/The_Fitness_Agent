@@ -1,4 +1,3 @@
-Here’s your **# The\_Fitness\_Agent** rewritten with all sections in **bullet points** while keeping the same layout and spacing.
 
 ---
 
