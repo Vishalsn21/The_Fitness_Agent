@@ -50,9 +50,9 @@ In today’s fast-paced world, many people struggle to stay healthy due to:
 
 🏅 **Certifications**
 
-* Getting Started with AI – IBM SkillsBuild
-* Retrieval Augmented Generation with LangChain
-* Journey to Cloud: Envisioning Your Solution
+* Getting Started with AI – IBM SkillsBuild.
+* Retrieval Augmented Generation with LangChain.
+* Journey to Cloud: Envisioning Your Solution.
 
 ---
 
